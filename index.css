@@ -1,3 +1,8 @@
 body {
   font-size: 18px;
 }
+
+.dvs{
+    font-weight: 500;
+    display: flex;
+}
